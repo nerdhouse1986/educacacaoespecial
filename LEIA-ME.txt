@@ -1,0 +1,12 @@
+DASHBOARD URE SBC V7 - RESUMO POR ESCOLA
+
+Novidades:
+- Resumo agrupado por escola e estudante, com os 28 campos solicitados.
+- Cartões expansíveis para reduzir excesso de informação na tela.
+- Filtros rápidos para estudo de caso, apoio, AEE, transporte e pendências.
+- Filtros cumulativos por qualquer coluna e busca global.
+- Exportação do resumo filtrado em CSV.
+- Ficha individual e exportações mantidas.
+- Dados persistentes no mesmo navegador através do IndexedDB.
+
+Extraia todos os arquivos e abra index.html. Login: educacao / 101010.
