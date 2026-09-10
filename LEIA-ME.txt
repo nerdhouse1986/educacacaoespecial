@@ -1,14 +1,17 @@
-DASHBOARD URE SBC V11 OTIMIZADA
+DASHBOARD GITHUB V1 - URE SBC
 
-Mantém a configuração da V8 e os botões AVD, Documentos Educação Especial e Transporte.
+Esta versão mantém integralmente os filtros, indicadores, gráficos, central de pendências, comparação de uploads, visões salvas, ficha individual, exportações e persistência local da versão anterior.
 
-Novidades:
-- Central de pendências documentais e inconsistências.
-- Índice percentual de completude por estudante.
-- Filtro para mostrar apenas estudantes com apontamentos.
-- Exportação dos apontamentos em CSV.
-- Comparação resumida entre o upload anterior e o novo.
-- Visões de filtros salvas no navegador.
-- Indicadores, gráficos, ficha individual, PDF/CSV e persistência IndexedDB mantidos.
+Alterações desta versão:
+- Botão AVD atualizado para o novo endereço do SharePoint.
+- Botão Transporte atualizado para a nova pasta do Google Drive.
+- Botão Documentos Educação Especial mantido sem alterações.
 
-Extraia todos os arquivos e abra index.html. Login: educacao / 101010.
+Como usar:
+1. Extraia todos os arquivos do ZIP.
+2. Abra index.html no Microsoft Edge ou Google Chrome.
+3. Login: educacao
+4. Senha: 101010
+5. Faça o upload da planilha atualizada.
+
+Para GitHub Pages, envie todos os arquivos desta pasta para a raiz do repositório e publique a branch desejada nas configurações do Pages.
