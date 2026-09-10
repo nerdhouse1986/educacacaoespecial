@@ -1,12 +1,14 @@
-DASHBOARD URE SBC V7 - RESUMO POR ESCOLA
+DASHBOARD URE SBC V11 OTIMIZADA
+
+Mantém a configuração da V8 e os botões AVD, Documentos Educação Especial e Transporte.
 
 Novidades:
-- Resumo agrupado por escola e estudante, com os 28 campos solicitados.
-- Cartões expansíveis para reduzir excesso de informação na tela.
-- Filtros rápidos para estudo de caso, apoio, AEE, transporte e pendências.
-- Filtros cumulativos por qualquer coluna e busca global.
-- Exportação do resumo filtrado em CSV.
-- Ficha individual e exportações mantidas.
-- Dados persistentes no mesmo navegador através do IndexedDB.
+- Central de pendências documentais e inconsistências.
+- Índice percentual de completude por estudante.
+- Filtro para mostrar apenas estudantes com apontamentos.
+- Exportação dos apontamentos em CSV.
+- Comparação resumida entre o upload anterior e o novo.
+- Visões de filtros salvas no navegador.
+- Indicadores, gráficos, ficha individual, PDF/CSV e persistência IndexedDB mantidos.
 
 Extraia todos os arquivos e abra index.html. Login: educacao / 101010.
